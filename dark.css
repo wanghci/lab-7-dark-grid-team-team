@@ -1,0 +1,28 @@
+.dark {
+    background-color: black;
+
+    .main-head {
+      background-color: #333333;
+      color: white;
+    }
+    .content {
+        background-color: #333333;
+        color: white;
+    }
+    .main-nav {
+        background-color: #333333;
+        color: white;
+    }
+    .side {
+        background-color: #333333;
+        color: white;
+    }
+    .ad {
+        background-color: #333333;
+        color: white;
+    }
+    .main-footer {
+        background-color: #333333;
+        color: white;
+    }
+  }
